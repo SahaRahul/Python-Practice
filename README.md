@@ -4,8 +4,8 @@
 
 ### I am attempting to guide you to learn python within 4-5 session duration of 3 hrs.
 
-- Python basic Day 1
-- Python programming Day 2
-- Python numpy Day 3
-- Python pandas Day 4
-- Python matplotlib Day 5
+- Basic Day 1
+- Programming Day 2
+- NumPy Day 3
+- Pandas Day 4
+- Matplotlib Day 5
